@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Prashant Shiwakoti
 ### Full Stack Web Developer
-I am Prashant Shiwakoti, a full stack web developer as well as part time game developer. I love coding as well as creating various things through coding. Checkout my page at https://prashant.com.np for more stuffs.
+I am Prashant Shiwakoti, a full stack web developer as well as part time game developer. I love coding as well as creating various things through coding. Checkout my page at https://prashantsh.com.np for more stuffs.
 
 #### Skills: 
 - 🐍 Python
