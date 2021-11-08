@@ -6,6 +6,7 @@ I am Prashant Shiwakoti, a full stack web developer and a programmer. I love cod
 - 🐍 Python
 - ☕ Java
 - 💻 HTML, CSS, JS
+- 🐘 PHP
 
 <br>
 
