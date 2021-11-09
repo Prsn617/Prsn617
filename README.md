@@ -1,4 +1,4 @@
-## Hi there 👋, I am Prashant Shiwakoti
+## Hi, I am Prashant Shiwakoti
 ### Full Stack Web Developer
 I am Prashant Shiwakoti, a full stack web developer and a programmer. I love coding as well as creating various things through coding. Checkout my page at http://prsn.lovestoblog.com for more stuffs.
 
