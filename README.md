@@ -9,7 +9,7 @@
 
 <hr/>
 
-- 🌱 Currently learning: React Native 
+- 🌱 Currently learning: React Native and Laravel
 - 🤔 Interested in Game Development and Design
 - 📫 How to reach me: prsn617@gmail.com 
 
