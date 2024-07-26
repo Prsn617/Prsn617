@@ -4,7 +4,7 @@
 <img src="https://media2.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b761189896e42796408ec894e7331926ab50a24620d7e&rid=giphy.gif&ct=g" alt="Coding Gif"/>
   </p>
 
-<p align="center" style="max-width: 10ch;">Hello World </p>
+<p align="center" style="color:lightcoral;">Hello World </p>
 <p align="center"> I am Prashant Shiwakoti, a full-stack developer and a programmer. I love coding as well as making various cool stuffs. <br/> I prefer frontend but can do backend as well. If you have an idea, I can help translate that idea into a wonderful outcome. <br/> Checkout my portfolio at https://prsn617.github.io/My-Portfolio/ for more stuffs.</p>
 
 <hr/>
