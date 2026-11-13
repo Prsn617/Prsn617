@@ -5,7 +5,7 @@
   </p>
 
 <p align="center" style="color:lightcoral;">Hello World </p>
-<p align="center"> I am Prashant Shiwakoti, a full-stack developer and a programmer. I love coding as well as making various cool stuffs. <br/> I prefer frontend but can do backend as well. If you have an idea, I can help translate that idea into a wonderful outcome. <br/> Checkout my portfolio at [https://prsn617.github.io/My-Portfolio/](https://prashant-shiwakoti.com.np/) for more stuffs.</p>
+<p align="center"> I am Prashant Shiwakoti, a full-stack developer and a programmer. I love coding as well as making various cool stuffs. <br/> I prefer frontend but can do backend as well. If you have an idea, I can help translate that idea into a wonderful outcome. <br/> Checkout my portfolio at https://prashant-shiwakoti.com.np/ for more stuffs.</p>
 
 <hr/>
 
